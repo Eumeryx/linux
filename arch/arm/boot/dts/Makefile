@@ -809,6 +809,7 @@ dtb-$(CONFIG_ARCH_S5P4418) += \
 	s5p4418-con_svma-rev00.dtb \
 	s5p4418-convergence_daudio-rev00.dtb
 dtb-$(CONFIG_ARCH_S5P4418) += \
+	s5p4418-nanopi2-rev00.dtb \
 	s5p4418-nanopi2-rev01.dtb \
 	s5p4418-nanopi2-rev02.dtb \
 	s5p4418-nanopi2-rev03.dtb \
